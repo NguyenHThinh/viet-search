@@ -1,0 +1,21 @@
+{
+  "accountInfo": "Account infomation",
+  "name": "Name",
+  "gender": {
+    "root": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other"
+  },
+  "dayOfBirth": "Date of birth",
+  "address": "Address",
+  "phone": "Phone number",
+  "aboutYou": "About you",
+  "updateInfo": "Update info",
+  "successUpdate": "Update successful",
+  "failUpdate": "Update failed! please contact us",
+  "changeYourPassword": "Change your password",
+  "newPassword": "New password",
+  "confirmPassword": "Confirm password",
+  "changePassword": "Change password"
+}

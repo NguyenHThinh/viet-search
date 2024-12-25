@@ -1,0 +1,74 @@
+import Image from "next/image";
+import React from "react";
+
+import BackgroundSection from "@/components/BackgroundSection";
+import appRightImg from "@/images/appRightImg.png";
+import appRightImgTree from "@/images/appRightImgTree.png";
+import appSvg1 from "@/images/appSvg1.png";
+import appSvg2 from "@/images/appSvg2.png";
+import btnAndroidPng from "@/images/btn-android.png";
+import btnIosPng from "@/images/btn-ios.png";
+import dowloadAppBGPng from "@/images/dowloadAppBG.png";
+import { TFunction } from "i18next";
+import NextImage from "@/components/NextImage";
+
+const HomeDowloadApp = ({ t }: { t: TFunction }) => {
+  return (
+    <div className="relative pb-0 pt-24 lg:py-32 xl:py-40 2xl:py-48">
+      <BackgroundSection className="bg-neutral-100 bg-opacity-80 dark:bg-opacity-100 ">
+        <NextImage
+          className="absolute inset-0 h-full w-full rounded-3xl object-cover object-right"
+          src={dowloadAppBGPng}
+          alt="dowloadAppPng"
+        />
+
+        <div className="absolute bottom-0 right-0 hidden max-w-xl overflow-hidden rounded-3xl lg:block xl:max-w-2xl">
+          <NextImage src={appRightImg} alt="" />
+        </div>
+        <div className="absolute right-0 top-0 max-w-2xl">
+          <NextImage src={appRightImgTree} alt="" />
+        </div>
+        <div className="absolute bottom-10 left-0 max-w-2xl">
+          <NextImage src={appSvg1} alt="" />
+        </div>
+      </BackgroundSection>
+
+      <div className="relative inline-block ">
+        <h2 className="text-5xl font-bold text-neutral-800 md:text-6xl xl:text-7xl">
+          {t("mobileApp")}
+        </h2>
+        <span className="mt-7 block max-w-md text-neutral-6000">
+          {t("lorem")}
+        </span>
+        <div className="mt-10 flex space-x-3 sm:mt-14">
+          <a
+            href="https://apps.apple.com/us/app/vietsearch/id1482035858"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <NextImage src={btnIosPng} alt="" />
+          </a>
+          <a
+            href="https://play.google.com/store/apps/details?id=org.vietsearch.android"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <NextImage src={btnAndroidPng} alt="" />
+          </a>
+        </div>
+
+        <NextImage
+          className="absolute z-10 hidden lg:left-full lg:top-0 lg:block lg:max-w-sm  xl:top-1/2 2xl:max-w-none"
+          src={appSvg2}
+          alt=""
+        />
+
+        <div className="mt-10 block max-w-2xl overflow-hidden rounded-3xl lg:hidden">
+          <NextImage src={appRightImg} alt="" />
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default HomeDowloadApp;

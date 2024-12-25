@@ -1,0 +1,107 @@
+{
+  "error": {
+    "nameRequired": "Name is required",
+    "typesRequired": "Types is required",
+    "descriptionRequired": "description is required",
+    "categoriesRequired": "categories is required",
+    "atLeastOneCats": "At least one category is required",
+    "contactType": "Contact type is required",
+    "contactValue": "Contact value is required",
+    "displayedRequired": "Displayed address is required",
+    "countryRequired": "Country is required",
+    "atLeastOneimages": "At least one image is required",
+    "thumbnailRequired": "Thumbnail is required",
+    "missingField": "Missing field"
+  },
+
+  "successfulAdd": "Business added successfully!",
+  "failAdd": "Failed to add business.",
+  "goBack": "Go back",
+  "submit": "Submit",
+  "addTag": "Add tag",
+  "addContact": "Add contact",
+  "updateContact": "Update contact",
+
+  "stepTitle": {
+    "infomation": "Infomation",
+    "contacts": "Contacts",
+    "openTime": "Open Time",
+    "images": "Images"
+  },
+
+  "step1": {
+    "businessInfomation": "Your business information",
+    "chooseType": "Choose a property type",
+    "businessName": "Your business name",
+    "businessDesc": "Describe your business",
+    "describe": "Describe...",
+    "additionalKeywords": "Additional keywords",
+    "exampleKeywords": "e.g., transportation, steamed rice rolls, nail services,...",
+    "chooseBusinessCats": "Choose the most suitable category for your business",
+    "businessCats": "Business Category",
+    "helperInfomation": "This information helps customers find you when they search for a business like yours.",
+    "exampleCats": "e.g. Restaurant, Beauty Salon,..."
+  },
+
+  "step2": {
+    "countryRegion": "Country/Region",
+    "selectCountry": "Select your country/region from the dropdown",
+    "businessLocation": "Your business location",
+    "fullAddress": "Full address",
+    "thisAddress": "This is address show in contact and get location in map",
+    "exampleAddress": "e.g. house number street, state, city, country,...",
+    "street": "Street",
+    "state": "State",
+    "postalCode": "Postal code",
+    "detailAddress": "Detail address"
+  },
+
+  "step3": {
+    "businessPicture": "Picture of your business",
+    "helperPicture": "A few beautiful photos will help customers have more sympathy for your property.",
+    "coverImage": "Cover image",
+    "picturesPlace": "Pictures of the place"
+  },
+
+  "step4": {
+    "hour": "Hour",
+    "mainBusinessHour": "Set main business hour or mark your business as close."
+  },
+
+  "types": {
+    "business": "Business",
+    "company": "Company",
+    "organization": "Organization",
+    "privateBusiness": "Private business",
+    "other": "Other",
+    "jointStockCompany": "Joint stock company",
+    "limitedLiabilityCompany": "Limited liability company",
+    "stateOwnedEnterprise": "State owned enterprise",
+    "privateEnterprise": "Private enterprise",
+    "partnership": "Partnership",
+    "householdBusiness": "Household business"
+  },
+
+  "contactTypes": {
+    "website": "Website",
+    "mobile": "Mobile",
+    "fax": "Fax",
+    "xcom": "xcom",
+    "phone": "Phone",
+    "email": "Email",
+    "facebook": "Facebook",
+    "linkedin": "Linkedin",
+    "other": "Other"
+  },
+
+  "type": "Type",
+  "name": "Name",
+  "description": "Description",
+  "keyWords": "Key Words",
+  "categories": "Categories",
+  "businessInfo": "Business Infomation",
+  "basicInfo": "Basic infomation",
+  "logo": "Logo",
+  "photos": "Photos",
+  "changeLogo": "Change Logo"
+}

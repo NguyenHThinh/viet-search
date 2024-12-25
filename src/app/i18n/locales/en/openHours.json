@@ -1,0 +1,20 @@
+{
+  "openMainHours": "Open with main hours",
+  "openMainHoursDesc": "Show when the business is open",
+  "openNoMainHours": "Open with no main hours",
+  "openNoMainHoursDesc": "Don't show any business hours",
+  "temporarilyClosed": "Temporarily closed",
+  "temporarilyClosedDesc": "Show that the business will open again in the future",
+  "permanentlyClosed": "Permanently closed",
+  "permanentlyClosedDesc": "Show that the business no longer exists",
+
+  "monday": "Monday",
+  "tueday": "Tueday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+  "openAt": "Open at",
+  "closeAt": "Close at"
+}

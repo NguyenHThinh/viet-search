@@ -1,0 +1,108 @@
+{
+  "error": {
+    "nameRequired": "Tên doanh nghiệp là bắt buộc.",
+    "typesRequired": "Loại doanh nghiệp là bắt buộc.",
+    "descriptionRequired": "Mô tả doanh nghiệp là bắt buộc.",
+    "categoriesRequired": "Danh mục là bắt buộc.",
+    "atLeastOneCats": "Cần có ít nhất một danh mục.",
+    "contactType": "Loại thông tin liên hệ là bắt buộc.",
+    "contactValue": "Giá trị liên hệ là bắt buộc.",
+    "displayedRequired": "Địa chỉ hiển thị là bắt buộc.",
+    "countryRequired": "Quốc gia là bắt buộc.",
+    "atLeastOneimages": "Cần có ít nhất một hình ảnh.",
+    "thumbnailRequired": "Ảnh đại diện là bắt buộc.",
+    "missingField": "Thiếu dữ liệu"
+  },
+
+  "successfulAdd": "Doanh nghiệp đã được thêm thành công!",
+  "failAdd": "Không thể thêm doanh nghiệp.",
+  "goBack": "Quay lại",
+  "submit": "Đăng doanh nghiệp",
+  "addTag": "Thêm thẻ",
+  "addContact": "Thêm thông tin liên hệ",
+  "updateContact": "Cập nhật",
+
+  "stepTitle": {
+    "infomation": "Thông tin",
+    "contacts": "Liên hệ",
+    "openTime": "Giờ hoạt động",
+    "images": "Hình ảnh"
+  },
+
+  "step1": {
+    "businessInfomation": "Thông tin doanh nghiệp của bạn",
+    "chooseType": "Chọn loại hình doanh nghiệp",
+    "businessName": "Tên doanh nghiệp",
+    "businessDesc": "Mô tả doanh nghiệp của bạn",
+    "describe": "Mô tả...",
+    "additionalKeywords": "Từ khóa bổ sung",
+    "exampleKeywords": "Ví dụ: vận chuyển, bánh cuốn, dịch vụ làm móng,…",
+    "chooseBusinessCats": "Chọn danh mục phù hợp nhất cho doanh nghiệp của bạn",
+    "businessCats": "Danh mục doanh nghiệp",
+    "helperInfomation": "Thông tin này giúp khách hàng dễ dàng tìm thấy bạn khi họ tìm kiếm một doanh nghiệp tương tự như của bạn.",
+    "exampleCats": "Ví dụ: Nhà hàng, Thẩm mỹ viện,…"
+  },
+
+  "step2": {
+    "countryRegion": "Quốc gia/Khu vực",
+    "selectCountry": "Chọn quốc gia hoặc khu vực của bạn từ danh sách thả xuống",
+    "businessLocation": "Vị trí của doanh nghiệp",
+    "fullAddress": "Địa chỉ đầy đủ",
+    "thisAddress": "Địa chỉ này sẽ hiển thị trong thông tin liên hệ và được sử dụng để xác định vị trí trên bản đồ.",
+    "exampleAddress": "Ví dụ: số nhà, tên đường, tiểu bang, thành phố, quốc gia,…",
+    "street": "Đường",
+    "state": "Quận/ Huyện",
+    "postalCode": "Mã bưu chính",
+    "detailAddress": "Địa chỉ"
+  },
+
+  "step3": {
+    "businessPicture": "Hình ảnh doanh nghiệp của bạn",
+    "helperPicture": "Một vài bức ảnh đẹp sẽ giúp khách hàng cảm thấy thiện cảm hơn với doanh nghiệp của bạn.",
+    "coverImage": "Ảnh đại diện",
+    "picturesPlace": "Hình ảnh của địa điểm"
+  },
+
+  "step4": {
+    "hour": "Giờ",
+    "mainBusinessHour": "Thiết lập giờ làm việc chính hoặc đánh dấu doanh nghiệp của bạn là đã đóng cửa."
+  },
+
+  "types": {
+    "business": "Doanh nghiệp",
+    "company": "Công ty",
+    "organization": "Tổ chức",
+    "privateBusiness": "Doanh nghiệp tư nhân",
+    "other": "Khác",
+    "jointStockCompany": "Công ty cổ phần (JSC)",
+    "limitedLiabilityCompany": "Công ty TNHH (LLC)",
+    "stateOwnedEnterprise": "Doanh nghiệp nhà nước",
+    "privateEnterprise": "Doanh nghiệp tư nhân",
+    "partnership": "Công ty hợp danh",
+    "householdBusiness": "Hộ kinh doanh"
+  },
+
+  "contactTypes": {
+    "website": "Trang web",
+    "mobile": "Mobile",
+    "fax": "Fax",
+    "xcom": "xcom",
+    "phone": "Số điện thoại",
+    "email": "Email",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "other": "Khác"
+  },
+
+  "type": "Loại hình doanh nghiệp",
+  "name": "Tên doanh nghiệp",
+  "description": "Mô tả doanh nghiệp",
+  "keyWords": "Từ khóa",
+  "categories": "Danh mục",
+  "businessInfo": "Thông tin doanh nghiệp",
+  "basicInfo": "Thông tin cơ bản",
+  "logo": "Logo",
+  "photos": "Hình ảnh",
+  "changeLogo": "Thay đổi Logo"
+}

@@ -1,0 +1,21 @@
+{
+  "accountInfo": "Thông tin tài khoản",
+  "name": "Họ và tên",
+  "gender": {
+    "root": "Giới tính",
+    "male": "Nam",
+    "female": "Nữ",
+    "other": "Khác"
+  },
+  "dayOfBirth": "Ngày sinh",
+  "address": "Địa chỉ",
+  "phone": "Số điện thoại",
+  "aboutYou": "Giới thiệu về bạn",
+  "updateInfo": "Cập nhật thông tin",
+  "successUpdate": "Cập nhật thành công",
+  "failUpdate": "Cập nhật thất bại! Liên hệ với chúng tôi",
+  "changeYourPassword": "Thay đổi mật khẩu",
+  "newPassword": "Mật khẩu mới",
+  "confirmPassword": "Nhập lại mật khẩu",
+  "changePassword": "Thay đổi mật khẩu"
+}

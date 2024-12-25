@@ -1,0 +1,20 @@
+{
+  "openMainHours": "Mở cửa và có giờ hoạt động chính",
+  "openMainHoursDesc": "Cho biết thời gian doanh nghiệp mở cửa",
+  "openNoMainHours": "Mở cửa và không có giờ hoạt động chính",
+  "openNoMainHoursDesc": "Không cho biết giờ hoạt động",
+  "temporarilyClosed": "Tạm thời đóng cửa",
+  "temporarilyClosedDesc": "Cho biết rằng doanh nghiệp sẽ mở cửa lại trong tương lai",
+  "permanentlyClosed": "Đã đóng cửa vĩnh viễn",
+  "permanentlyClosedDesc": "Cho biết rằng doanh nghiệp không còn tồn tại",
+
+  "monday": "Thứ Hai",
+  "tueday": "Thứ Ba",
+  "wednesday": "Thứ Tư",
+  "thursday": "Thứ Năm",
+  "friday": "Thứ Sáu",
+  "saturday": "Thứ Bảy",
+  "sunday": "Chủ Nhật",
+  "openAt": "Mở cửa",
+  "closeAt": "Đóng cửa"
+}
